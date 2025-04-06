@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v9K24p73tc59JfUIch5D-21" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillStyle=hatch;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="120" width="340" height="150" as="geometry" />
+          <mxGeometry x="464" y="120" width="340" height="150" as="geometry" />
         </mxCell>
         <mxCell id="v9K24p73tc59JfUIch5D-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9K24p73tc59JfUIch5D-25" target="v9K24p73tc59JfUIch5D-10">
           <mxGeometry relative="1" as="geometry">
@@ -86,7 +86,7 @@
           <mxGeometry x="320" y="80" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v9K24p73tc59JfUIch5D-40" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;质量影响参数&lt;/font&gt;&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="40" width="120" height="30" as="geometry" />
+          <mxGeometry x="230" y="40" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
