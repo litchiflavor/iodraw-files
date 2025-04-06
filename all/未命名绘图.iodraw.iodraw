@@ -17,7 +17,7 @@
         <mxCell id="v9K24p73tc59JfUIch5D-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9K24p73tc59JfUIch5D-1" target="v9K24p73tc59JfUIch5D-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="v9K24p73tc59JfUIch5D-1" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;原料乳验收&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="v9K24p73tc59JfUIch5D-1" value="&lt;strong style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;原料乳验收&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="414" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v9K24p73tc59JfUIch5D-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="v9K24p73tc59JfUIch5D-10" target="v9K24p73tc59JfUIch5D-17">
@@ -35,9 +35,7 @@
         <mxCell id="v9K24p73tc59JfUIch5D-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v9K24p73tc59JfUIch5D-19" target="v9K24p73tc59JfUIch5D-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="575" y="214" />
-              <mxPoint x="580" y="214" />
-              <mxPoint x="580" y="250" />
+              <mxPoint x="575" y="250" />
               <mxPoint x="474" y="250" />
             </Array>
           </mxGeometry>
