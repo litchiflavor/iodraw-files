@@ -76,7 +76,7 @@
             <mxPoint x="440" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="v9K24p73tc59JfUIch5D-36" value="包装存储" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
+        <mxCell id="v9K24p73tc59JfUIch5D-36" value="&lt;h2&gt;包装存储&lt;/h2&gt;" style="whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;rounded=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="574" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
