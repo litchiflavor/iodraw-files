@@ -135,6 +135,9 @@
         <mxCell id="v9K24p73tc59JfUIch5D-59" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;泄漏率&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="645" width="80" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="v9K24p73tc59JfUIch5D-60" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;灭菌温度&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="595" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
