@@ -74,7 +74,7 @@
         </mxCell>
         <mxCell id="v9K24p73tc59JfUIch5D-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="720" as="sourcePoint" />
+            <mxPoint x="440" y="760" as="sourcePoint" />
             <mxPoint x="440" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -135,7 +135,7 @@
         <mxCell id="v9K24p73tc59JfUIch5D-59" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;泄漏率&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="645" width="80" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="v9K24p73tc59JfUIch5D-60" value="&lt;span style=&quot;color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px;&quot;&gt;灭菌温度&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v9K24p73tc59JfUIch5D-60" value="&lt;font face=&quot;DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot; color=&quot;#404040&quot;&gt;&lt;span style=&quot;font-size: 16.002px;&quot;&gt;H₂O₂浓度&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="595" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
