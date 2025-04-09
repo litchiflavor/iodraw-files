@@ -1,0 +1,93 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="H7pZUxfB3pK7ukgg0IkT">
+    <mxGraphModel dx="774" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-1" value="成品储存与运输" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2425" y="55" width="303" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-2" value="检测与包装" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2077" y="55" width="298" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-3" value="无菌灌装" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1749" y="20" width="278" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-4" value="冷却" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1396" y="55" width="304" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-5" value="超高温灭菌（UHT）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1067" y="29" width="279" height="207" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-6" value="均质" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="711" y="46" width="306" height="171" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-7" value="预处理" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="372" y="20" width="289" height="224" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-8" value="原料乳验收" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="38" width="302" height="189" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-9" value="**原料乳验收**&#xa;检测设备：乳成分分析仪、抗生素检测仪&#xa;过滤：双联过滤器（80-120目）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="45" y="73" width="252" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-10" value="**预处理**&#xa;脱气&#xa;真空脱气罐(-0.05MPa)&#xa;标准化&#xa;离心分离机(GEA MSD200)&#xa;预热&#xa;板式换热器(55-65℃)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="397" y="55" width="239" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-11" value="**均质**&#xa;高压均质机（APV 1000）&#xa;一级压力：15-20MPa；二级压力：3-5MPa" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="736" y="81" width="256" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-12" value="**超高温灭菌（UHT）**&#xa;间接加热&#xa;管式换热器 (137-142℃)&#xa;直接蒸汽注入&#xa;蒸汽注入+闪蒸冷却 (140-145℃, ΔT≤85℃)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1092" y="64" width="229" height="137" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-13" value="**冷却**&#xa;板式冷却器 → 25℃（回收80℃热量预热）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1421" y="90" width="254" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-14" value="**无菌灌装**&#xa;包装灭菌&#xa;H₂O₂喷雾 (35%,70℃)&#xa;无菌环境&#xa;HEPA过滤 (ISO 5级)&#xa;灌装密封&#xa;利乐A3 Flex (5000包/h)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="1774" y="55" width="228" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-15" value="**检测与包装**&#xa;密封性检测 → 金属/X光检测 → 贴标装箱" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2102" y="90" width="248" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-16" value="**成品储存与运输**&#xa;常温储存（≤8层堆码，保质期6-12个月）" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="2450" y="90" width="253" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-9" target="Or1FBnx9NRj9puUIwy9A-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.51;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-10" target="Or1FBnx9NRj9puUIwy9A-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-11" target="Or1FBnx9NRj9puUIwy9A-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-12" target="Or1FBnx9NRj9puUIwy9A-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-13" target="Or1FBnx9NRj9puUIwy9A-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-14" target="Or1FBnx9NRj9puUIwy9A-15" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Or1FBnx9NRj9puUIwy9A-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" parent="1" source="Or1FBnx9NRj9puUIwy9A-15" target="Or1FBnx9NRj9puUIwy9A-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
