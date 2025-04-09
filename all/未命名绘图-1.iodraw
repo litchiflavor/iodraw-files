@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="H7pZUxfB3pK7ukgg0IkT">
-    <mxGraphModel dx="919" dy="1097" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1072" dy="910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wR88fyaXaeQ7kertx1iZ-2" value="[输入部分]&#xa;  ├─ 时间序列数据 (T, M)&#xa;  └─ 静态特征 (1, N)&#xa;&#xa;&#xa;[模型部分]&#xa;  ├─ LSTM层 × n&#xa;  └─ 全连接层&#xa;&#xa;&#xa;[输出部分]&#xa;  ├─ 分类结果 (1, C)&#xa;  └─ 预警触发（基于概率阈值）" style="text;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="200" height="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
