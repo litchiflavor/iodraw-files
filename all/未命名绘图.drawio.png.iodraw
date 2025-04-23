@@ -10,7 +10,7 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-2" value="红色停机预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-1">
           <mxGeometry x="43" y="46" width="1867" height="352" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-3" value="多参数协同异常(温度下降伴随压力骤升) OR 预测微生物超标概率≥90%" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-3" value="多参数协同异常(温度下降伴随压力骤升) OR 预测微生物超标概率≥90%" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=13;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="58" y="43" width="282" height="282" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-4" value="触发红色停机预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
