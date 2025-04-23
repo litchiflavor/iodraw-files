@@ -22,7 +22,7 @@
         <mxCell id="0YqPaCooMK-qu0hrTk2L-6" value="建立物理-数据混合模型" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="289" y="414" width="196" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="0YqPaCooMK-qu0hrTk2L-7" value="模型融合 Stackin g" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="0YqPaCooMK-qu0hrTk2L-7" value="模型融合 Stacking" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="147" y="513" width="163" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0YqPaCooMK-qu0hrTk2L-8" value="模型评估与迁移学习" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
