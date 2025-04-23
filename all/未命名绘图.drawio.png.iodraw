@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-1" value="多级预警机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=40;" vertex="1" parent="1">
-          <mxGeometry x="30" y="30" width="1786" height="960" as="geometry" />
+          <mxGeometry x="42" y="30" width="1786" height="960" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-20" value="动态监控界面" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1950" y="1030" width="638" height="124" as="geometry" />
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-14" value="黄色预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;" vertex="1" parent="1">
-          <mxGeometry x="315" y="570" width="1210" height="300" as="geometry" />
+          <mxGeometry x="318" y="570" width="1210" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-15" value="单一核心参数连续3次超出动态阈值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
           <mxGeometry x="80.02280501710378" y="114.4186046511628" width="336.64766248574693" height="92.09302325581397" as="geometry" />
