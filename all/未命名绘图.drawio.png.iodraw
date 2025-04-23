@@ -22,7 +22,7 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API/钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1000" y="151" width="270" height="69" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1322" y="151" width="258" height="66" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-8" value="10分钟内响应" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
