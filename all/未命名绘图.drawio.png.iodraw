@@ -36,10 +36,10 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-15" value="单一核心参数连续3次超出动态阈值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
           <mxGeometry x="80.02280501710378" y="114.4186046511628" width="336.64766248574693" height="92.09302325581397" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-16" value="触发黄色预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-16" value="触发黄色预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
           <mxGeometry x="554.6408209806159" y="60.000000000000014" width="200.05701254275942" height="202.32558139534885" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-17" value="推送至可视化看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-17" value="推送至可视化看板" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
           <mxGeometry x="892.6681870011405" y="126.97674418604653" width="259.38426453819847" height="68.37209302325583" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="P4xLHNP7sXCBY4Or6bUm-14" source="P4xLHNP7sXCBY4Or6bUm-15" target="P4xLHNP7sXCBY4Or6bUm-16">
