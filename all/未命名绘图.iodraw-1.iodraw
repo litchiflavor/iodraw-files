@@ -69,8 +69,14 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-23" value="用户输入问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="HOdZne65crAnJkQaHo5A-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-24" target="HOdZne65crAnJkQaHo5A-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-24" value="向量化问题" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="HOdZne65crAnJkQaHo5A-26" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
