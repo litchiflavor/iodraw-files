@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-1" value="多级预警机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="24" y="30" width="1806" height="960" as="geometry" />
+          <mxGeometry x="24" y="30" width="1786" height="960" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-20" value="动态监控界面" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="1950" y="1030" width="638" height="124" as="geometry" />
@@ -65,7 +65,7 @@
           <mxGeometry x="660.5463310123193" y="172.72727272727272" width="169.51258703802893" height="52.89772727272727" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API/钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
-          <mxGeometry x="921.26" y="163.01" width="258.74" height="76.99" as="geometry" />
+          <mxGeometry x="900" y="161.22" width="258.74" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1217.9110873058382" y="163.01136363636365" width="237.6861274772362" height="71.25" as="geometry" />
