@@ -148,8 +148,8 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-47" value="调用提示词工程模版" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="602.5" y="390" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;知识检索&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="660" y="270" width="20" height="30" as="geometry" />
+        <mxCell id="HOdZne65crAnJkQaHo5A-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;智能问答&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="490" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
