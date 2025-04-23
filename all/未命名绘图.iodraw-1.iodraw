@@ -8,7 +8,13 @@
           <mxGeometry x="60" y="150" width="350" height="350" as="geometry" />
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-1" target="HOdZne65crAnJkQaHo5A-0">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="225" />
+              <mxPoint x="210" y="130" />
+              <mxPoint x="290" y="130" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-1" value="&lt;b&gt;专业知识文件，PDCA行动过程记录&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="80" y="190" width="110" height="70" as="geometry" />
