@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="HOdZne65crAnJkQaHo5A-0" value="" style="whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="150" width="350" height="350" as="geometry" />
+          <mxGeometry x="60" y="150" width="360" height="360" as="geometry" />
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-1" target="HOdZne65crAnJkQaHo5A-5">
           <mxGeometry relative="1" as="geometry" />
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-1" value="&lt;b&gt;专业知识文件，PDCA行动过程记录&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" y="190" width="110" height="70" as="geometry" />
+          <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-5" target="HOdZne65crAnJkQaHo5A-7">
           <mxGeometry relative="1" as="geometry" />
