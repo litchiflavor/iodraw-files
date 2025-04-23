@@ -114,8 +114,8 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-39" value="用户输入问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-40" value="用户问题与知识库组合形成context" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="572.5" y="450" width="195" height="60" as="geometry" />
+        <mxCell id="HOdZne65crAnJkQaHo5A-40" value="返回问题结果" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="562.5" y="550" width="195" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
