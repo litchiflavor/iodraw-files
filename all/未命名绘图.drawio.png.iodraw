@@ -10,7 +10,7 @@
             <mxPoint x="710" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-n5nnJTRdY-QlCFiSLxC-42" value="传感器数据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-n5nnJTRdY-QlCFiSLxC-42" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;传感器数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
