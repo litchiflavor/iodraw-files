@@ -18,7 +18,7 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-1" value="&lt;b&gt;专业知识文件，PDCA行动过程记录&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="70" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-5" target="HOdZne65crAnJkQaHo5A-7">
+        <mxCell id="HOdZne65crAnJkQaHo5A-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-5" target="HOdZne65crAnJkQaHo5A-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-14" value="文档分割" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOdZne65crAnJkQaHo5A-8">
@@ -36,6 +36,9 @@
           <mxGeometry x="-0.0889" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="HOdZne65crAnJkQaHo5A-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-7" target="HOdZne65crAnJkQaHo5A-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-7" value="&lt;b&gt;切分后的段落&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="330" width="120" height="60" as="geometry" />
