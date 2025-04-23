@@ -64,10 +64,10 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-5" value="自动通知MES系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="623.6046511627907" y="161.25128205128203" width="201.1627906976744" height="95.67179487179486" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API&#xa;钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API&#xa;钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="865" y="151.35384615384612" width="261.51162790697674" height="118.61538461538461" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1196.9186046511627" y="166.73846153846154" width="201.1627906976744" height="87.83589743589742" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-8" value="10分钟内响应" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
