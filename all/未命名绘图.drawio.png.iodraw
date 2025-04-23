@@ -53,7 +53,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-2" value="红色停机预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
-          <mxGeometry x="50" y="110" width="1720" height="380" as="geometry" />
+          <mxGeometry x="60" y="110" width="1720" height="380" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-3" value="预测微生物超标概率≥90%" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="53.43331547937869" y="46.42045454545455" width="259.7964649169791" height="304.4318181818182" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="850" y="160.14" width="258.74" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
-          <mxGeometry x="1217.91" y="163.01" width="237.69" height="76.99" as="geometry" />
+          <mxGeometry x="1150" y="160.14999999999998" width="237.69" height="76.99" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-8" value="10分钟内响应" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1529.2983395822177" y="118.75000000000001" width="152.00856989823245" height="161.9318181818182" as="geometry" />
