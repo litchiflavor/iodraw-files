@@ -21,7 +21,7 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-5" target="HOdZne65crAnJkQaHo5A-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-5" value="文件对象" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HOdZne65crAnJkQaHo5A-5" value="&lt;b&gt;文件对象&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="195" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HOdZne65crAnJkQaHo5A-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-7" target="HOdZne65crAnJkQaHo5A-9">
