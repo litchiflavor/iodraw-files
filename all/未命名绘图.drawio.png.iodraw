@@ -7,7 +7,7 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-1" value="多级预警机制" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="2864" height="427" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-2" value="红色停机预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-1">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-2" value="红色停机预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-1">
           <mxGeometry x="43" y="46" width="1867" height="352" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-3" value="预测微生物超标概率≥90%" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
