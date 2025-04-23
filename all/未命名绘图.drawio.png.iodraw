@@ -30,7 +30,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-14" value="黄色预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-14" value="黄色预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="315" y="570" width="1210" height="300" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-15" value="单一核心参数连续3次超出动态阈值" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
@@ -52,7 +52,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-2" value="红色停机预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=30;" vertex="1" parent="1">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-2" value="红色停机预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="1730" height="400" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-3" value="预测微生物&#xa;超标概率≥90%" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
