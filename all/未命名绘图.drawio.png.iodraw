@@ -59,9 +59,9 @@
           <mxGeometry x="53.43331547937869" y="46.42045454545455" width="259.7964649169791" height="304.4318181818182" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-4" value="触发红色停机预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
-          <mxGeometry x="405.36" y="90" width="194.64" height="204.72" as="geometry" />
+          <mxGeometry x="405.36" y="96.28" width="194.64" height="204.72" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-5" value="自动通知MES系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-5" value="自动通知MES系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="660.5463310123193" y="172.72727272727272" width="169.51258703802893" height="52.89772727272727" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API/钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
