@@ -58,7 +58,7 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-3" value="预测微生物&#xa;超标概率≥90%" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="20" y="48.86" width="295.05" height="320.45" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-4" value="触发红色&#xa;停机预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-4" value="触发红色&#xa;停机预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="366.11627906976753" y="101.34736842105262" width="195.77162790697676" height="215.49473684210525" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-5" value="自动通知MES系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
