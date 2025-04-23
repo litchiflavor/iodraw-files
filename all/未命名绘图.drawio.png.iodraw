@@ -33,7 +33,7 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-14" value="黄色预警" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;" vertex="1" parent="1">
           <mxGeometry x="315" y="570" width="1210" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-15" value="单一核心参数连续3次超出动态阈值" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-15" value="单一核心参数连续3次超出动态阈值" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
           <mxGeometry x="80.02280501710378" y="114.4186046511628" width="336.64766248574693" height="92.09302325581397" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-16" value="触发黄色预警" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-14">
@@ -65,7 +65,7 @@
           <mxGeometry x="623.6046511627907" y="161.25128205128203" width="201.1627906976744" height="95.67179487179486" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API&#xa;钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
-          <mxGeometry x="865" y="151.35384615384612" width="261.51162790697674" height="118.61538461538461" as="geometry" />
+          <mxGeometry x="870" y="149.78384615384613" width="261.51162790697674" height="118.61538461538461" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息至生产人员" style="whiteSpace=wrap;strokeWidth=2;fontSize=30;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1196.9186046511627" y="166.73846153846154" width="201.1627906976744" height="87.83589743589742" as="geometry" />
