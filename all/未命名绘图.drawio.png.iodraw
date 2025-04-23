@@ -19,8 +19,8 @@
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-5" value="自动通知MES系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="717" y="160" width="184" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API/钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
-          <mxGeometry x="1000" y="151" width="221" height="66" as="geometry" />
+        <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API/钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
+          <mxGeometry x="1000" y="151" width="270" height="69" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-7" value="推送预警信息(异常参数、建议措施)至生产人员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="1322" y="151" width="258" height="66" as="geometry" />
