@@ -91,14 +91,14 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-26" value="知识库中的相关token" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-12">
+        <mxCell id="HOdZne65crAnJkQaHo5A-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="480" y="480" as="sourcePoint" />
-            <mxPoint x="550" y="280" as="targetPoint" />
+            <mxPoint x="410" y="470" as="sourcePoint" />
+            <mxPoint x="540" y="280" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="480" y="470" />
-              <mxPoint x="480" y="280" />
-              <mxPoint x="510" y="280" />
+              <mxPoint x="470" y="470" />
+              <mxPoint x="470" y="280" />
+              <mxPoint x="500" y="280" />
             </Array>
           </mxGeometry>
         </mxCell>
