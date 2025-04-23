@@ -27,10 +27,10 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-7" target="HOdZne65crAnJkQaHo5A-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-7" value="切分后的段落" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HOdZne65crAnJkQaHo5A-7" value="&lt;b&gt;切分后的段落&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="265" y="335" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-9" value="" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="HOdZne65crAnJkQaHo5A-9" value="向量化后的段落" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="65" y="335" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
