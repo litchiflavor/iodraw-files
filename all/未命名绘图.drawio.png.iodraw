@@ -62,7 +62,7 @@
           <mxGeometry x="364.00000000000006" y="98.81368421052632" width="194.64000000000001" height="210.10736842105266" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-5" value="自动通知MES系统" style="whiteSpace=wrap;strokeWidth=2;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
-          <mxGeometry x="619.9963310123194" y="176.7185167464115" width="169.51258703802893" height="54.289772727272734" as="geometry" />
+          <mxGeometry x="620" y="176.72" width="200" height="93.28" as="geometry" />
         </mxCell>
         <mxCell id="P4xLHNP7sXCBY4Or6bUm-6" value="企业微信API&#xa;钉钉机器人接口" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=25;" vertex="1" parent="P4xLHNP7sXCBY4Or6bUm-2">
           <mxGeometry x="860" y="147.57" width="260" height="115.65" as="geometry" />
