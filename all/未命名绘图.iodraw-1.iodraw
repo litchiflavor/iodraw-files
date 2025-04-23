@@ -83,7 +83,7 @@
         <mxCell id="HOdZne65crAnJkQaHo5A-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="HOdZne65crAnJkQaHo5A-24" target="HOdZne65crAnJkQaHo5A-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HOdZne65crAnJkQaHo5A-30" value="知识库检索" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOdZne65crAnJkQaHo5A-27">
+        <mxCell id="HOdZne65crAnJkQaHo5A-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;知识库检索&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HOdZne65crAnJkQaHo5A-27">
           <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="6" as="offset" />
           </mxGeometry>
