@@ -70,7 +70,7 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=31;endSize=10.74;width=19;" edge="1" parent="1">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=31;endSize=10.74;width=19;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="407" as="sourcePoint" />
             <mxPoint x="660" y="407" as="targetPoint" />
