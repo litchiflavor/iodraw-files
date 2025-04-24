@@ -22,6 +22,9 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据压缩&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="270" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
