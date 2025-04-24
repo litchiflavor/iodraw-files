@@ -50,7 +50,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yY-AslSrrdsVWURIim5R-18" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yY-AslSrrdsVWURIim5R-18" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-weight:bold&quot;&gt;分割稳定运行状态&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="207.5" width="86" height="75" as="geometry" />
         </mxCell>
       </root>
