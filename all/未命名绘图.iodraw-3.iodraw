@@ -160,8 +160,14 @@
         <mxCell id="QU9UmAcXM-k6BdVXoqFy-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;项目主题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="70" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="QU9UmAcXM-k6BdVXoqFy-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;项目主题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="QU9UmAcXM-k6BdVXoqFy-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QU9UmAcXM-k6BdVXoqFy-35" target="QU9UmAcXM-k6BdVXoqFy-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QU9UmAcXM-k6BdVXoqFy-35" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;现状问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-230" y="190" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QU9UmAcXM-k6BdVXoqFy-37" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;现状问题&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="310" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
