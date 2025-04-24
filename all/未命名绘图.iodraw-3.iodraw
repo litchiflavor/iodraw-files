@@ -14,7 +14,7 @@
           <mxGeometry x="136" y="367" width="274" height="297" as="geometry" />
         </mxCell>
         <mxCell id="QU9UmAcXM-k6BdVXoqFy-4" value="1. 数据采集与高效存储平台" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="79" y="50" width="631" height="297" as="geometry" />
+          <mxGeometry x="90" y="45" width="631" height="297" as="geometry" />
         </mxCell>
         <mxCell id="QU9UmAcXM-k6BdVXoqFy-5" value="数据采集与标准化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="179" y="45" width="189" height="49" as="geometry" />
