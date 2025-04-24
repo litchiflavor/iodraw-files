@@ -98,7 +98,7 @@
           <mxGeometry x="620" y="200.63" width="91.6" height="88.74" as="geometry" />
         </mxCell>
         <mxCell id="yY-AslSrrdsVWURIim5R-33" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA;mso-bidi-font-weight:bold&quot;&gt;动态数字化模型&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="300" width="143" height="35" as="geometry" />
+          <mxGeometry x="600" y="295" width="143" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
