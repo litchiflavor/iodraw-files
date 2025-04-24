@@ -1,0 +1,152 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="CaI3pEatVWC0HVCcuTFF">
+    <mxGraphModel dx="990" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-1" value="应用层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="20" y="924" width="734" height="247" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-2" value="知识图谱" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry x="69" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-3" value="因果链规则 + 图嵌入" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry x="43" y="169" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-4" value="智能问答" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry x="313" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-5" value="RAG工作流（检索+生成）" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry x="269" y="169" width="212" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-6" value="知识更新" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry x="557" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-7" value="强化学习 + 多端交互" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry x="531" y="169" width="176" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-1" source="gISr_v0Bf2kG0b7zscRm-2" target="gISr_v0Bf2kG0b7zscRm-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-1" source="gISr_v0Bf2kG0b7zscRm-4" target="gISr_v0Bf2kG0b7zscRm-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-1" source="gISr_v0Bf2kG0b7zscRm-6" target="gISr_v0Bf2kG0b7zscRm-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-11" value="模型层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="81" y="463" width="611" height="388" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-12" value="数据湖构建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="52" y="169" width="140" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-13" value="多模态数据标签化" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="43" y="301" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-14" value="动态模型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="270" y="169" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-15" value="TCN+注意力机制 + XGBoost预测" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="251" y="293" width="161" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-16" value="预警系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="460" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-17" value="参数协同分析" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="459" y="169" width="126" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-18" value="API预警推送" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry x="463" y="301" width="118" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-11" source="gISr_v0Bf2kG0b7zscRm-12" target="gISr_v0Bf2kG0b7zscRm-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-11" source="gISr_v0Bf2kG0b7zscRm-14" target="gISr_v0Bf2kG0b7zscRm-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-11" source="gISr_v0Bf2kG0b7zscRm-16" target="gISr_v0Bf2kG0b7zscRm-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-11" source="gISr_v0Bf2kG0b7zscRm-17" target="gISr_v0Bf2kG0b7zscRm-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-23" value="数据层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="20" width="674" height="371" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-24" value="数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="60" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-25" value="标准化接口协议" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="51" y="169" width="142" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-26" value="多源异构数据接入" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="43" y="293" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-27" value="数据压缩" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="268" y="46" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-28" value="深度学习优化算法" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="251" y="169" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-29" value="分布式时序数据库" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="251" y="293" width="158" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-30" value="数据安全" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="491" y="169" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-31" value="工业私有云 + SDN网络" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="gISr_v0Bf2kG0b7zscRm-23">
+          <mxGeometry x="459" y="293" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-23" source="gISr_v0Bf2kG0b7zscRm-24" target="gISr_v0Bf2kG0b7zscRm-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-23" source="gISr_v0Bf2kG0b7zscRm-25" target="gISr_v0Bf2kG0b7zscRm-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-23" source="gISr_v0Bf2kG0b7zscRm-27" target="gISr_v0Bf2kG0b7zscRm-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-23" source="gISr_v0Bf2kG0b7zscRm-28" target="gISr_v0Bf2kG0b7zscRm-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="gISr_v0Bf2kG0b7zscRm-23" source="gISr_v0Bf2kG0b7zscRm-30" target="gISr_v0Bf2kG0b7zscRm-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-37" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gISr_v0Bf2kG0b7zscRm-23" target="gISr_v0Bf2kG0b7zscRm-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gISr_v0Bf2kG0b7zscRm-38" value="下" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="gISr_v0Bf2kG0b7zscRm-11" target="gISr_v0Bf2kG0b7zscRm-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
