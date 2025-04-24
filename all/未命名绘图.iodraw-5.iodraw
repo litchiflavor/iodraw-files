@@ -179,7 +179,7 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-72" value="&lt;span style=&quot;font-size:14.0pt;font-family:&lt;br/&gt;&amp;quot;Times New Roman&amp;quot;,serif;mso-fareast-font-family:宋体;mso-bidi-font-family:宋体;&lt;br/&gt;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;&lt;br/&gt;mso-bidi-language:AR-SA;mso-bidi-font-weight:bold&quot; lang=&quot;EN-US&quot;&gt;UHT&lt;/span&gt;&lt;span style=&quot;font-size:14.0pt;font-family:宋体;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;mso-bidi-font-family:宋体;mso-font-kerning:&lt;br/&gt;1.0pt;mso-ansi-language:EN-US;mso-fareast-language:ZH-CN;mso-bidi-language:&lt;br/&gt;AR-SA;mso-bidi-font-weight:bold&quot;&gt;奶生产线数据采集与存储平台&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="50" width="330" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-76" value="&lt;span style=&quot;font-size:14.0pt;font-family:宋体;&lt;br/&gt;mso-ascii-font-family:&amp;quot;Times New Roman&amp;quot;;mso-hansi-font-family:&amp;quot;Times New Roman&amp;quot;;&lt;br/&gt;mso-bidi-font-family:宋体;mso-font-kerning:1.0pt;mso-ansi-language:EN-US;&lt;br/&gt;mso-fareast-language:ZH-CN;mso-bidi-language:AR-SA;mso-bidi-font-weight:bold&quot;&gt;UHT奶生产知识图谱与专家系统构建&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="860" width="350" height="32.5" as="geometry" />
         </mxCell>
       </root>
