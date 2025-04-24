@@ -16,7 +16,7 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-26" target="um8nWOu0EF1Ah-QR-9m1-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-90" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(251, 251, 251);&quot;&gt;多模态数据标签化&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-89">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-90" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;多模态数据标签化&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-89">
           <mxGeometry x="-0.6422" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="70" as="offset" />
           </mxGeometry>
@@ -61,7 +61,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据湖构建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="550" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-17" target="um8nWOu0EF1Ah-QR-9m1-18">
           <mxGeometry relative="1" as="geometry" />
