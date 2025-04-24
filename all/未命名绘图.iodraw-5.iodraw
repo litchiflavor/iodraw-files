@@ -47,7 +47,7 @@
           <mxGeometry x="50" y="565" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-16" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据湖构建&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="505" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;动态数字模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="600" width="120" height="60" as="geometry" />
@@ -60,18 +60,6 @@
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=33;endSize=8.5;width=36;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="519.5" as="sourcePoint" />
-            <mxPoint x="510" y="520" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多模态数据标签化&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-27">
-          <mxGeometry x="-0.0684" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=31;endSize=10.74;width=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
