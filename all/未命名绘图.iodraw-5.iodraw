@@ -135,7 +135,7 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-51" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;全新问题&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="1105" width="105" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=31;endSize=10.74;width=19;" edge="1" parent="1">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=31;endSize=10.74;width=19;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1029.5" as="sourcePoint" />
             <mxPoint x="660" y="1029.5" as="targetPoint" />
