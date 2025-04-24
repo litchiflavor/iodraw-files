@@ -47,7 +47,7 @@
           <mxGeometry x="335" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;动态数字模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="335" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="335" y="560" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;预警系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="660" width="120" height="60" as="geometry" />
