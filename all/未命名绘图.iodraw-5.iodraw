@@ -31,7 +31,10 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-8" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;多源数据统一接入&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="295" y="190" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-9" target="um8nWOu0EF1Ah-QR-9m1-19">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-9" target="um8nWOu0EF1Ah-QR-9m1-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-9" target="um8nWOu0EF1Ah-QR-9m1-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-9" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据压缩&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -55,7 +58,7 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="360" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-19" target="um8nWOu0EF1Ah-QR-9m1-10">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.35;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-19" target="um8nWOu0EF1Ah-QR-9m1-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
