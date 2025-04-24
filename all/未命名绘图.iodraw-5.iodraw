@@ -18,7 +18,7 @@
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-90" value="&lt;span style=&quot;font-size: 14px; background-color: rgb(251, 251, 251);&quot;&gt;多模态数据标签化&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-89">
           <mxGeometry x="-0.6422" y="-1" relative="1" as="geometry">
-            <mxPoint x="1" as="offset" />
+            <mxPoint x="1" y="70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
