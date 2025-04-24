@@ -146,12 +146,6 @@
             <mxPoint x="420" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.273;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-50" target="um8nWOu0EF1Ah-QR-9m1-44">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="930" as="sourcePoint" />
-            <mxPoint x="420" y="880" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-68" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=1;endWidth=31;endSize=10.74;width=19;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="1029.5" as="sourcePoint" />
