@@ -7,8 +7,8 @@
         <mxCell id="yY-AslSrrdsVWURIim5R-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据湖&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="210" width="110" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="yY-AslSrrdsVWURIim5R-2" value="传感器数据&#xa;(温度、压力)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="170" width="246" height="49" as="geometry" />
+        <mxCell id="yY-AslSrrdsVWURIim5R-2" value="时序数据" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="170" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
