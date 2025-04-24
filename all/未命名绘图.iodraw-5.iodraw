@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-54" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-53">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-54" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;智能更新&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-53">
           <mxGeometry x="-0.0888" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
