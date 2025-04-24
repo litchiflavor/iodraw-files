@@ -67,14 +67,6 @@
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI预警系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-19" target="um8nWOu0EF1Ah-QR-9m1-16">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多模态数据标签化&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-35">
-          <mxGeometry x="-0.2363" y="-2" relative="1" as="geometry">
-            <mxPoint x="-293" y="72" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="335" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -155,7 +147,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-10" target="um8nWOu0EF1Ah-QR-9m1-47">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;exitX=-0.004;exitY=0.758;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="um8nWOu0EF1Ah-QR-9m1-10" target="um8nWOu0EF1Ah-QR-9m1-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670" y="910" as="sourcePoint" />
             <mxPoint x="660" y="900" as="targetPoint" />
