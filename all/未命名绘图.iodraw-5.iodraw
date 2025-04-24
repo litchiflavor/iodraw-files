@@ -11,7 +11,7 @@
           <mxGeometry x="220" y="480" width="350" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-46" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="180" y="845" width="430" height="370" as="geometry" />
+          <mxGeometry x="180" y="850" width="430" height="370" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-26" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="180" y="40" width="430" height="400" as="geometry" />
@@ -127,7 +127,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-54" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;智能更新&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-53">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-54" value="&lt;p style=&quot;line-height: 120%; font-size: 14px;&quot;&gt;智能更新&lt;/p&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-53">
           <mxGeometry x="-0.0888" y="1" relative="1" as="geometry">
             <mxPoint x="1" y="22" as="offset" />
           </mxGeometry>
@@ -175,7 +175,7 @@
             <mxPoint x="460" y="940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="um8nWOu0EF1Ah-QR-9m1-86" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;因果链规则&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-85">
+        <mxCell id="um8nWOu0EF1Ah-QR-9m1-86" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;多模态数据标签化&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="um8nWOu0EF1Ah-QR-9m1-85">
           <mxGeometry x="0.0315" y="1" relative="1" as="geometry">
             <mxPoint x="-13" y="-30" as="offset" />
           </mxGeometry>
