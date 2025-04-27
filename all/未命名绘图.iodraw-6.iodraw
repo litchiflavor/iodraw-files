@@ -56,7 +56,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-17" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;动态数字模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="335" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="665" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-18" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;AI预警系统&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="335" y="730" width="120" height="60" as="geometry" />
@@ -66,7 +66,7 @@
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-36" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;多模态数据标签化&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="um8nWOu0EF1Ah-QR-9m1-35" vertex="1" connectable="0">
           <mxGeometry x="-0.2363" y="-2" relative="1" as="geometry">
-            <mxPoint x="2" y="7" as="offset" />
+            <mxPoint x="10" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="um8nWOu0EF1Ah-QR-9m1-19" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;时序数据库&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
