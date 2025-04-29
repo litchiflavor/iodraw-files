@@ -80,13 +80,16 @@
           <mxGeometry x="150" y="555" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FurJILjLVTpP3ZZoUHV9-31" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;报警信息&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="622.5" width="120" height="45" as="geometry" />
+          <mxGeometry x="190" y="590" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FurJILjLVTpP3ZZoUHV9-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;水锤点定位&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="622.5" width="120" height="45" as="geometry" />
         </mxCell>
         <mxCell id="FurJILjLVTpP3ZZoUHV9-33" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;产品放行问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="690" width="120" height="45" as="geometry" />
+          <mxGeometry x="190" y="650" width="120" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="FurJILjLVTpP3ZZoUHV9-34" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;产品放行问题&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="660" width="120" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
