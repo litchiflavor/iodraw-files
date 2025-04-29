@@ -10,7 +10,7 @@
         <mxCell id="FurJILjLVTpP3ZZoUHV9-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;多源数据采集&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FurJILjLVTpP3ZZoUHV9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FurJILjLVTpP3ZZoUHV9-2">
+        <mxCell id="FurJILjLVTpP3ZZoUHV9-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FurJILjLVTpP3ZZoUHV9-2" target="FurJILjLVTpP3ZZoUHV9-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="255" as="targetPoint" />
           </mxGeometry>
@@ -18,8 +18,8 @@
         <mxCell id="FurJILjLVTpP3ZZoUHV9-2" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;时序数据压缩&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="130" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FurJILjLVTpP3ZZoUHV9-6" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;时序数据压缩&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="140" width="120" height="50" as="geometry" />
+        <mxCell id="FurJILjLVTpP3ZZoUHV9-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;时序数据库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
