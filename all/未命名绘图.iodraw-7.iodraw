@@ -112,9 +112,6 @@
         <mxCell id="FurJILjLVTpP3ZZoUHV9-40" value="&lt;h4 style=&quot;font-size: 16.002px; line-height: 28.575px; margin: 18.288px 0px 13.716px; color: rgb(64, 64, 64); font-family: DeepSeek-CJK-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;strong&gt;UHT奶生产线数据采集与存储平台&lt;/strong&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="95" y="20" width="310" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FurJILjLVTpP3ZZoUHV9-41" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="10" width="70" height="510" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
