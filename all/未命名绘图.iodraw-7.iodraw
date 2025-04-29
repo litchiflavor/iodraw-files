@@ -19,6 +19,14 @@
           <mxGeometry x="190" y="130" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="FurJILjLVTpP3ZZoUHV9-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FurJILjLVTpP3ZZoUHV9-6" target="FurJILjLVTpP3ZZoUHV9-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="300" />
+              <mxPoint x="90" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FurJILjLVTpP3ZZoUHV9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FurJILjLVTpP3ZZoUHV9-6" target="FurJILjLVTpP3ZZoUHV9-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FurJILjLVTpP3ZZoUHV9-6" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;时序数据库&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
