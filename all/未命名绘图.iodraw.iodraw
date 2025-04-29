@@ -10,7 +10,7 @@
         <mxCell id="CKqPDV97YBF6ayysvL0P-2" value="B[模型层]" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="81" y="449" width="1151" height="221" as="geometry" />
         </mxCell>
-        <mxCell id="CKqPDV97YBF6ayysvL0P-3" value="A[数据层]" style="whiteSpace=wrap;strokeWidth=2;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+        <mxCell id="CKqPDV97YBF6ayysvL0P-3" value="A[数据层]" style="whiteSpace=wrap;strokeWidth=2;dashed=1;dashPattern=8 8;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="442" y="20" width="473" height="356" as="geometry" />
         </mxCell>
         <mxCell id="CKqPDV97YBF6ayysvL0P-7" value="多源数据采集" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
