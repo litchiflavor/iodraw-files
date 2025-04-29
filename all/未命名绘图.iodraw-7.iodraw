@@ -64,6 +64,9 @@
         <mxCell id="FurJILjLVTpP3ZZoUHV9-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;水锤定位模型&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="440" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="FurJILjLVTpP3ZZoUHV9-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
